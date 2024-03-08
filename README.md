@@ -1,3 +1,6 @@
+# Intro
+This is a to-do list app, you can add, delete, check and uncheck tasks through it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
